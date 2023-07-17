@@ -1,0 +1,1 @@
+# 10-Guess-the-number-by-Function
